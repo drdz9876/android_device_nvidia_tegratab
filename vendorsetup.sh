@@ -1,0 +1,2 @@
+add_lunch_combo cm_tegratab-eng
+add_lunch_combo cm_tegratab-userdebug
